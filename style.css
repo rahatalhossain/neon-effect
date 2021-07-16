@@ -87,4 +87,5 @@ a:hover span:nth-child(4)
 }
 a:after{
     content:"To You.";
+    position:absolute;
 }
