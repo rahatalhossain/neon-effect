@@ -85,7 +85,7 @@ a:hover span:nth-child(4)
     transition: 1s;
     transition-delay: 0.75s;
 }
-a::after{
+a:hover::after{
     content:"To You.";
     position:absolute;
     padding:10px;
